@@ -1,10 +1,6 @@
 {
   "name": "snailfox",
   "version": "0.0.0",
-  // "main": "index.js",
-  // "scripts": {
-  //   "test": "make test-all"
-  // },
   "repository": {
     "type": "git",
     "url": "git://github.com/wnr/snailfox.git"
