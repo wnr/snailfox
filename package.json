@@ -1,6 +1,6 @@
 {
   "name": "snailfox",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/wnr/snailfox.git"
@@ -13,5 +13,12 @@
   "author": "Lucas Wiener <lucas@wiener.se>",
   "bugs": {
     "url": "https://github.com/wnr/snailfox/issues"
+  },
+  "devDependencies": {
+    "expect": "0.0.2",
+    "mocha": "~1.13.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-simple-mocha": "~0.4.0"
   }
 }
